@@ -1,0 +1,593 @@
+* {
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
+
+.pb1 {
+    background-color: black;
+    width: 40px;
+    height: 10px;
+    left: 40px;
+}
+
+.pb2 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    left: 170px;
+}
+
+.pb3 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 10px;
+    left: 30px;
+}
+
+.pb4 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 10px;
+    left: 160px;
+}
+
+.pb5 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 10px;
+    left: 80px;
+}
+
+.pb6 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 20px;
+    left: 20px;
+}
+
+.pb7 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 20px;
+    left: 90px;
+}
+
+.pb8 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 40px;
+    left: 10px;
+}
+
+.pb9 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 50px;
+    left: 0px;
+}
+.pb10 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 40px;
+    left: 100px;
+}
+
+.pb11 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 60px;
+    left: 110px;
+}
+
+.pb12 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 80px;
+    left: 10px;
+}
+
+.pb13 {
+    background-color: black;
+    width: 20px;
+    height: 10px;
+    top: 90px;
+    left: 20px;
+}
+
+.pb14 {
+    background-color: black;
+    width: 30px;
+    height: 10px;
+    top: 100px;
+    left: 40px;
+}
+
+.pb15 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 110px;
+    left: 50px;
+}
+
+.pb16 {
+    background-color: black;
+    width: 30px;
+    height: 10px;
+    top: 130px;
+    left: 40px;
+}
+
+.pb17 {
+    background-color: black;
+    width: 30px;
+    height: 10px;
+    top: 140px;
+    left: 50px;
+}
+
+.pb18 {
+    background-color: black;
+    width: 60px;
+    height: 10px;
+    top: 150px;
+    left: 80px;
+}
+
+.pb19 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 160px;
+    left: 90px;
+}
+
+.pb20 {
+    background-color: black;
+    width: 30px;
+    height: 10px;
+    top: 170px;
+    left: 100px;
+}
+
+.pb21 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 40px;
+    left: 150px;
+}
+
+.pb22 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 80px;
+    left: 120px;
+}
+
+.pb23 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 90px;
+    left: 130px;
+}
+
+.pb24 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 100px;
+    left: 140px;
+}
+
+.pb25 {
+    background-color: black;
+    width: 10px;
+    height: 50px;
+    top: 130px;
+    left: 130px;
+}
+
+.pb26 {
+    background-color: black;
+    width: 20px;
+    height: 10px;
+    top: 130px;
+    left: 140px;
+}
+
+.pb27 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 90px;
+    left: 150px;
+}
+
+.pb28 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 70px;
+    left: 160px;
+}
+
+.pb29 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 10px;
+    left: 180px;
+}
+
+.pb30 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 20px;
+    left: 190px;
+}
+
+.pb31 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 40px;
+    left: 200px;
+}
+
+.pb32 {
+    background-color: black;
+    width: 20px;
+    height: 10px;
+    top: 70px;
+    left: 180px;
+}
+
+.pb33 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 80px;
+    left: 180px;
+}
+
+.pb34 {
+    background-color: black;
+    width: 10px;
+    height: 20px;
+    top: 100px;
+    left: 170px;
+}
+
+.pb35{
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 120px;
+    left: 160px;
+}
+
+.pb36 {
+    background-color: black;
+    width: 10px;
+    height: 40px;
+    top: 40px;
+    left: 60px;
+}
+
+.pb37 {
+    background-color: black;
+    width: 10px;
+    height: 30px;
+    top: 50px;
+    left: 50px;
+}
+
+.pb38 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 100px;
+    left: 90px;
+}
+
+.pb39 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    top: 110px;
+    left: 80px;
+}
+
+.pb40 {
+    background-color: black;
+    width: 20px;
+    height: 10px;
+    top: 120px;
+    left: 90px;
+}
+
+.po1 {
+    background-color: rgb(255,153,51);
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    left: 40px;
+}
+
+.po2 {
+    background-color: rgb(255,153,51);
+    width: 20px;
+    height: 70px;
+    top: 20px;
+    left: 30px;
+}
+
+.po3 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 40px;
+    top: 40px;
+    left: 20px;
+}
+
+.po4 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 30px;
+    top: 50px;
+    left: 10px;
+}
+
+.po5 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 60px;
+    top: 20px;
+    left: 70px;
+}
+
+.po6 {
+    background-color: rgb(255,153,51);
+    width: 30px;
+    height: 10px;
+    top: 80px;
+    left: 40px;
+}
+
+.po7 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 30px;
+    top: 30px;
+    left: 80px;
+}
+
+.po8 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 20px;
+    top: 80px;
+    left: 170px;
+}
+
+.po9 {
+    background-color: rgb(255,153,51);
+    width: 10px;
+    height: 30px;
+    top: 90px;
+    left: 160px;
+}
+
+.po10 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 10px;
+    top: 10px;
+    left: 70px;
+}
+
+.po11 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 10px;
+    top: 20px;
+    left: 80px;
+}
+
+.po12 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 10px;
+    top: 80px;
+    left: 20px;
+}
+
+.po13 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 60px;
+    top: 40px;
+    left: 90px;
+}
+
+.po14 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 50px;
+    top: 60px;
+    left: 80px;
+}
+
+.po15 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 30px;
+    top: 80px;
+    left: 70px;
+}
+
+.po16 {
+    background-color: rgb(255,105,0);
+    width: 30px;
+    height: 10px;
+    top: 90px;
+    left: 40px;
+}
+
+.po17 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 60px;
+    top: 60px;
+    left: 100px;
+}
+
+.po18 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 90px;
+    top: 80px;
+    left: 110px;
+}
+
+.po19 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 10px;
+    top: 110px;
+    left: 90px;
+}
+
+.po20 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 20px;
+    top: 110px;
+    left: 130px;
+}
+.po21 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 60px;
+    top: 90px;
+    left: 120px;
+}
+
+.po22 {
+    background-color: rgb(255,105,0);
+    width: 10px;
+    height: 30px;
+    top: 100px;
+    left: 150px;
+}
+
+.po23 {
+    background-color: rgb(255, 105, 0);
+    width: 10px;
+    height: 20px;
+    top: 130px;
+    left: 100px;
+}
+
+.pg1 {
+    background-color: rgb(191,191,191);
+    width: 10px;
+    height: 10px;
+    top: 130px;
+    left: 50px;
+}
+
+.pr1 {
+    background-color: rgb(255,0,0);
+    width: 10px;
+    height: 50px;
+    top: 10px;
+    left: 170px;
+}
+
+.pr2 {
+    background-color: rgb(255,0,0);
+    width: 10px;
+    height: 30px;
+    top: 40px;
+    left: 160px;
+}
+
+.pr3 {
+    background-color: rgb(255,0,0);
+    width: 10px;
+    height: 30px;
+    top: 20px;
+    left: 180px;
+}
+
+.pr4 {
+    background-color: rgb(255,0,0);
+    width: 10px;
+    height: 30px;
+    top: 40px;
+    left: 190px;
+}
+
+.py1 {
+    background-color: rgb(255, 255, 0);
+    width: 20px;
+    height: 20px;
+    top: 110px;
+    left: 60px;
+}
+
+.py2 {
+    background-color: rgb(255, 255, 0);
+    width: 20px;
+    height: 20px;
+    top: 120px;
+    left: 70px;
+}
+
+.py3 {
+    background-color: rgb(255, 255, 0);
+    width: 20px;
+    height: 10px;
+    top: 130px;
+    left: 80px;
+}
+
+.py4 {
+    background-color: rgb(255, 255, 0);
+    width: 10px;
+    height: 20px;
+    top: 60px;
+    left: 170px;
+}
+
+.py5 {
+    background-color: rgb(255, 255, 0);
+    width: 10px;
+    height: 20px;
+    top: 50px;
+    left: 180px;
+}
+
+.py6 {
+    background-color: rgb(211, 214, 31);
+    width: 20px;
+    height: 10px;
+    top: 140px;
+    left: 80px;
+}
